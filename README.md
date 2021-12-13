@@ -1,5 +1,8 @@
 # Forest-Fire-Recognition
 Project work for the Image Processing and Computer Vision exam:
+
+![ Alt text](firegif. gif) / ! [](firegif. gif)
+
 Different data and approaches was used to tackle the Forest Fire Image Recognition task, reaching very high metrics scores: almost 99% of accuracy and 0.99 of f1 score. 
 It is important to notice that despite the datasets used have many bad quality images and even some mislabelled (or ambiguous) images, the model achieves really good results. Furthermore, it was also performed an error analysis procedure (with EBAnO) to understand why the proposed model committed certain errors.
 
